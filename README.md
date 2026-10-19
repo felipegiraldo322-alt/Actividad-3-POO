@@ -1,4 +1,4 @@
-# Actividad-1-POO
+# Actividad-3-POO
 # Universidad Nacional de Colombia
 # Docente: Walter Hugo Arboleda Mazo
 # Estudiante: Felipe Aristizábal Giraldo
